@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Thread.NET social network](https://github.com/Scarmaing-Whebrolted/thread.net) project
+- 🔭 I’m currently working on [E-commerce Product Store](https://github.com/Scarmaing-Whebrolted/e-commerce-product-store) project
 -  🌱 I’m currently learning [React](https://ua.udemy.com/course/react-the-complete-guide-incl-redux/learn/)
 - 🤔 I’m looking for help with Kursach
 - ⚡ Fun fact: I don't mind changing my character on the fly
