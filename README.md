@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [E-commerce Product Store](https://github.com/Scarmaing-Whebrolted/e-commerce-product-store) project
--  🌱 I’m currently learning [React](https://ua.udemy.com/course/react-the-complete-guide-incl-redux/learn/)
+- 🔭 I’m currently working on [FICT Advisor web](https://github.com/fictadvisor/fictadvisor-web) project
+-  🌱 I’m currently learning [React](https://react.dev/learn) and [Next.js](https://nextjs.org/docs)
 - 🤔 I’m looking for help with Kursach
 - ⚡ Fun fact: I don't mind changing my character on the fly
 - 💬 Ask me about self-improvement
