@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [FICT Advisor web](https://github.com/fictadvisor/fictadvisor-web) project
+- 🔭 I’m currently working on [CMO](https://github.com/istudent-kpi/web-application) project
 -  🌱 I’m currently following Front-end Road Map
 - 🤔 I’m looking for help with Kursach
 - ⚡ Fun fact: I don't mind changing my character on the fly
