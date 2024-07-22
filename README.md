@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on [ТПО](https://github.com/I-delver-I/parallel-computing-technologies) labworks
 -  🌱 I’m currently following Front-end Road Map
-- 🤔 I’m looking for help with Kursach
-- ⚡ Fun fact: I don't mind changing my character on the fly
+- 🤔 I’m looking for like-minded people
+- ⚡ Fun fact: I'm highly self-aware person
 - 💬 Ask me about self-improvement
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-delver-i&hide=shaderlab&exclude_repo=hello-world,prog_basics_2term&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
