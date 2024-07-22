@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [CMO](https://github.com/istudent-kpi/web-application) project
+- 🔭 I’m currently working on [ТПО](https://github.com/I-delver-I/parallel-computing-technologies) labworks
 -  🌱 I’m currently following Front-end Road Map
 - 🤔 I’m looking for help with Kursach
 - ⚡ Fun fact: I don't mind changing my character on the fly
