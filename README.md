@@ -2,11 +2,11 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [ТПО](https://github.com/I-delver-I/parallel-computing-technologies) labworks
--  🌱 I’m currently following Front-end Road Map
-- 🤔 I’m looking for like-minded people
+- 🔭 I’m currently working on Automated tests
+-  🌱 I’m currently following QA Road Map
+- 🤔 I’m looking for people that are able to endure talking to me
 - ⚡ Fun fact: I'm highly self-aware person
-- 💬 Ask me about self-improvement
+- 💬 Ask me about the way the wind speaks
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-delver-i&hide=shaderlab&exclude_repo=hello-world,prog_basics_2term&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-delver-i)](https://github.com/anuraghazra/github-readme-stats)
